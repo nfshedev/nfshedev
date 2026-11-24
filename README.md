@@ -8,7 +8,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:93C5FD&height=200&section=header&text=Hello,%20I'm%20NFSHEDEV&fontSize=38&fontColor=1E3A8A&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=16&descAlignY=58" width="100%" />
 
-  <h3>✨ Developer | Technology Enthusiast | Lifelong Learner</h3>
+  <h3>✨ Software Developer | System Analyst | IT Administrator | IT Governance</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 

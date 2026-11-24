@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **nfshedev**.
+Hi! I'm **Nanfa Saengnakorn**.
 
 I'm interested in technology, software development, and creating digital solutions.
 

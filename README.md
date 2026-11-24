@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:93C5FD&height=200&section=header&text=Hello,%20I'm%20NFSHEDEV&fontSize=38&fontColor=1E3A8A&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=16&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:93C5FD&height=200&section=header&text=Hello,%20I'm%20Nanfa Saengnakorn&fontSize=38&fontColor=1E3A8A&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=16&descAlignY=58" width="100%" />
 
   <h3>✨ Software Developer | System Analyst | IT Administrator | IT Governance</h3>
 
